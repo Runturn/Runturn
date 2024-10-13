@@ -1,6 +1,7 @@
 ### Hi there 👋
 You can call me Tong.
 This is my space.
+Enjoy！
 <!--
 **Tong-00/Tong-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
