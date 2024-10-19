@@ -1,3 +1,7 @@
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&height=100&lines=Konsei+no+deai+wa+zensei+no+surechigai)](https://git.io/typing-svg)
+</div>
+
 ### Welcome!! 👋
 You can call me Tong.
 This is my space.  
