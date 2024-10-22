@@ -24,7 +24,7 @@ My name is HE Runtong. I graduated with a Bachelor’s degree from Wuhan Univers
 I have a deep passion for **Cyber Security**. 
 
 ![image](https://github.com/user-attachments/assets/e417ea75-d777-479f-908f-f3c650747c3b)  
-### Why Cyber Security?
+## 🔒 Why Cyber Security?
 Cyber security has a lot to do with cryptography— and that’s exactly the secret I’m not telling you.
 
 ## 🤝 Let's Collaborate
